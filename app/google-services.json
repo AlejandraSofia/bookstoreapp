@@ -13,7 +13,16 @@
           "package_name": "sofias.app.bookstore"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "142542215402-nbn5i4dest21tp2r4irjsmjntqnk2kd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sofias.app.bookstore",
+            "certificate_hash": "a2d5270c2878f6f1757c47267bcb1a8ad933e62e"
+          }
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyD35SMczJSCO0sUGr-pQ_9Qljy9w2CkkCs"

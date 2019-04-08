@@ -9,9 +9,9 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".ActivityRomance">
+        <activity android:name=".ListaRomance">
         </activity>
-        <activity android:name=".ActivityTerror">
+        <activity android:name=".ListaTerror">
         </activity>
         <activity android:name=".LoginActivity">
             <intent-filter>
@@ -28,7 +28,7 @@
         </activity>
         <activity android:name=".ActivityLogin">
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".Romance">
         </activity>
         <activity android:name=".ActivitySplash">
             <intent-filter>
@@ -36,6 +36,8 @@
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
+        </activity>
+        <activity android:name=".ListAccion">
         </activity>
     </application>
 

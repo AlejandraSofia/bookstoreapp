@@ -5,7 +5,7 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".MainActivity">
+        tools:context=".Romance" android:background="@color/common_google_signin_btn_text_dark_default">
 
     <Button
             android:text="Guardar"
@@ -16,7 +16,8 @@
             app:layout_constraintEnd_toStartOf="@+id/buttonLista" android:layout_marginEnd="8dp"
             app:layout_constraintHorizontal_bias="0.445" android:layout_marginTop="76dp"
             app:layout_constraintTop_toBottomOf="@+id/editText3" android:layout_marginBottom="8dp"
-            app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintVertical_bias="0.0"/>
+            app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintVertical_bias="0.0"
+            android:background="@color/colorAccent"/>
     <Button
             android:text="Libreria"
             android:layout_width="wrap_content"
@@ -24,7 +25,7 @@
             android:id="@+id/buttonLista" app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="80dp"
             android:layout_marginTop="76dp" app:layout_constraintTop_toBottomOf="@+id/editText3"
             android:layout_marginBottom="8dp" app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintVertical_bias="0.0"/>
+            app:layout_constraintVertical_bias="0.0" android:background="@color/colorAccent"/>
     <EditText
             android:layout_width="395dp"
             android:layout_height="wrap_content"

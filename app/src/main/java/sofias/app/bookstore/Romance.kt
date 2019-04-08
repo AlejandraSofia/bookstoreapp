@@ -1,16 +1,10 @@
 package sofias.app.bookstore
 
-import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.BaseExpandableListAdapter
-import android.widget.Button
-import android.widget.EditText
-import android.widget.Toast
-import kotlinx.android.synthetic.main.activity_main.*
 
 
-class MainActivity : AppCompatActivity() {
+class Romance : AppCompatActivity() {
 
   //  lateinit var NombreView: EditText
     //lateinit var GeneroView: EditText
@@ -22,7 +16,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.Romance)
 
       //  NombreView = findViewById(R.id.NombreView)
         //GeneroView = findViewById(R.id.GeneroView2)

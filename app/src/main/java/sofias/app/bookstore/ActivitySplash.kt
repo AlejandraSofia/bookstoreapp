@@ -14,7 +14,7 @@ class ActivitySplash : AppCompatActivity() {
     {
         if (!isFinishing)
         {
-            val intent = Intent(applicationContext, MainActivity::class.java)
+            val intent = Intent(applicationContext, Romance::class.java)
             startActivity(intent)
             finish()
         }
