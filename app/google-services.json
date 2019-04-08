@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "142542215402",
+    "firebase_url": "https://bookstore-9444d.firebaseio.com",
+    "project_id": "bookstore-9444d",
+    "storage_bucket": "bookstore-9444d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142542215402:android:9f36ae2df713716e",
+        "android_client_info": {
+          "package_name": "sofias.app.bookstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD35SMczJSCO0sUGr-pQ_9Qljy9w2CkkCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142542215402-qfcfvvmi5ejossq99gvd5dng02q5qv46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
