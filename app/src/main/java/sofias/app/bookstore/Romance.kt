@@ -16,7 +16,7 @@ class Romance : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.Romance)
+        setContentView(R.layout.romance)
 
       //  NombreView = findViewById(R.id.NombreView)
         //GeneroView = findViewById(R.id.GeneroView2)

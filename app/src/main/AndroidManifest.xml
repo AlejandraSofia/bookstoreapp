@@ -20,13 +20,9 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".ActivityLista">
-        </activity>
         <activity android:name=".ActivityMenu">
         </activity>
         <activity android:name=".ActivityRegistro">
-        </activity>
-        <activity android:name=".ActivityLogin">
         </activity>
         <activity android:name=".Romance">
         </activity>
@@ -38,6 +34,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".ListAccion">
+        </activity>
+        <activity android:name=".Terror">
+        </activity>
+        <activity android:name=".Accion">
         </activity>
     </application>
 
